@@ -8,45 +8,5 @@ If you have interest / knowledge in this area and want to help other people, lea
 
 Join our Discord server @ [EIGENROUTER.NL](https://discord.gg/3ZDrCZTyXw)
 
-- [EIGEN ROUTER](#eigen-router)
-  * [pfSense](#pfsense)
-    + [KPN](#kpn)
-    + [Ziggo](#ziggo)
-    + [T-Mobile](#t-mobile)
-  * [Mikrotik](#mikrotik)
-    + [KPN](#kpn-1)
-    + [Ziggo](#ziggo-1)
-    + [T-Mobile](#t-mobile-1)
-
-## pfSense
-
-### KPN
-* [pfSense without separate TV VLAN](guides/pfsense/KPN/pfSense-without-vlan.md)
-* [pfSense with seperate TV VLAN](guides/pfsense/KPN/pfSense-with-vlan.md)
-* [pfSense KPN IPv6](guides/pfsense/KPN/pfSense-ipv6.md)
-
-### Ziggo
-* Coming soon...
-
-### T-Mobile
-* Coming soon...
-
-
-## Mikrotik
-
-### KPN
-* [Mikrotik internet only](guides/mikrotik/KPN/Mikrotik-Internet-only.md)
-* [Mikrotik TV configuration](guides/mikrotik/KPN/Mikrotik-tv-settings.md)
-* [Mikrotik voice / telephony](guides/mikrotik/KPN/Mikrotik-voice-telephony.md)
-
-### Ziggo
-* Coming soon...
-
-### T-Mobile
-* [Mikrotik internet only](guides/mikrotik/T-Mobile/Mikrotik-Internet-only.md)
-
-
-```
-Contribute?
-Make a pull request
-```
+# Project has been moved to a github organization, join us on discord!
+# New Project Address [EIGENROUTER.NL](https://github.com/Eigenrouter/eigenrouter)
